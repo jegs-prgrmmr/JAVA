@@ -1,4 +1,4 @@
-package ToDoList;
+package ToDoListManager;
 import java.util.*;
 
 public class Main {
