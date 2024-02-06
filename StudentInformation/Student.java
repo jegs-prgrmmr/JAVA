@@ -62,7 +62,7 @@ public class Student {
         } else if (course.equalsIgnoreCase("BSIS") || course.equalsIgnoreCase("BS Info Sys")) {
             System.out.println("Course: Bachelor of Science in Information System");
         } else {
-            System.out.print("Course: ");
+            System.out.print("Course:");
             System.err.println("Course not recognized.");
         }
     }
