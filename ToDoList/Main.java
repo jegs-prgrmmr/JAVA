@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
     private static List<Task> tasks = new ArrayList<>();
-    private static Scanner scanner = new Scanner(System.in);
+    private static final Scanner scanner = new Scanner(System.in);
 
     private static void printMenu() {
         System.out.println("\nToDo List Manager");
